@@ -12,3 +12,5 @@
 # ライセンス
 [Apache License, Version 2.0](https://www.apache.org/licenses/)
 
+# 使用方法
+- [Wiki:使用方法](https://github.com/uoanlab/pds_HealthData_Transfer_app/wiki)
