@@ -16,4 +16,4 @@ iOS app to transfer health data to PDS / ヘルスデータをPDSに格納する
 University of Aizu / 会津大学, 2019
 
 # How to test / テスト方法
-- [Wiki](https://github.com/uoanlab/pds_HealthData_Transfer_app/wiki)
+- [Wiki (only in Japanese)](https://github.com/uoanlab/pds_HealthData_Transfer_app/wiki)
