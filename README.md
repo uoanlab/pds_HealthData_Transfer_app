@@ -1,5 +1,5 @@
 # pds_HealthData_Transfer_app
-ヘルスデータをPDSに格納するiOSアプリ
+iOS app to transfer health data to PDS / ヘルスデータをPDSに格納するiOSアプリ
 
 # Dev / 開発環境
 - Xcode version 10.1  
