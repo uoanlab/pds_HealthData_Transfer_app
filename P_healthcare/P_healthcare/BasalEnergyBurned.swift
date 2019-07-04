@@ -3,7 +3,7 @@
 //  P_healthcare
 //
 //  Created by 佐藤優希 on 2019/01/06.
-//  Copyright © 2019 佐藤優希. All rights reserved.
+//  Copyright © 2019 University of Aizu. All rights reserved.
 //
 
 import Foundation
